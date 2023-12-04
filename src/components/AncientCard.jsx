@@ -5,6 +5,7 @@ const PlayerCard = () => {
     <>
         {data.map(({name,img,history},index)=>(
         <div key={index} className="cards">
+            <div className="flip-card">
             <div className="on">
                 <img src={img} alt="" />
                 <h3>{name}</h3>
@@ -14,6 +15,7 @@ const PlayerCard = () => {
                 <p>🏛️{history[1]}</p>
                 <p>🏛️{history[2]}</p>
                 <p>🏛️{history[3]}</p>
+            </div>
             </div>
         </div>
         ))}
