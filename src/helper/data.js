@@ -92,7 +92,7 @@ export const data = [
         "Kaya mezarları ve antik kalıntılarıyla ziyaretçilere tarihi bir atmosfer sunmaktadır.",
       
       ],
-      img: "http://www.karabibikbungalow.com/FileUpload/ep1009752/File/antalya-demre-myra-antik-kenti-4.jpg",
+      img: "https://www.kulturportali.gov.tr/contents/images/20190730120027239_myra%20444%20(1).jpg",
     },
     {
       name: "Sagalassos Antik Kenti",
