@@ -4,7 +4,7 @@
 
 
 
-<img src="./Animationcripto.gif"  width="90.5%" height="550" />
+<img src="./Animationantik.gif"  width="90.5%" height="550" />
 
 
 # Getting Started with Create React App
