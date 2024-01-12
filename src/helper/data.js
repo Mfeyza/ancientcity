@@ -28,7 +28,7 @@ export const data = [
         "Helenistik, Roma ve Bizans dönemlerine ait kalıntıları barındırır.",
         "Perge, Likya-Pamphylia bölgesinin önemli bir antik şehriydi."
       ],
-      img: "https://www.akdenizdeyeniyuzyil.net/wp-content/uploads/2023/08/perge-antik-kenti-740x420.jpg",
+      img: "https://cdn.seturday.com/content/uploads/makale_resimleri/kapak/perge-antik-kentini-kesfedelim-cc80809b-d6cc-4dad-b6ed-f3236e968647banner-min.jpg",
     },
     {
       name: "Hierapolis Antik Kenti",
