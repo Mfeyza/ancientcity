@@ -28,7 +28,7 @@ const Footer = () => {
 
   <div className="text-center p-3 fs-3 " >
     © {new Date().getFullYear()} MFY
-    <a className="text-black" href="https://www.linkedin.com/in/feyza-yıldırım-38b043285/">  Linkedin</a>
+    <a className="text-black" target="_blank" href="https://www.linkedin.com/in/feyza-yıldırım-38b043285/">  Linkedin</a>
   </div>
  
 </footer>
