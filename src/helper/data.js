@@ -18,7 +18,7 @@ export const data = [
         "Adını antik çağın aşk ve güzellik tanrıçası Afrodit'ten almıştır.",
         "Antik tiyatrosu, stadyumu ve tapınaklarıyla ünlüdür.",
       ],
-      img: "https://antiksikkelernumizmatik.com/attachments/antik-sikkeler-numizmatik_aphrodisias2-jpg.17856/",
+      img: "https://www.aphrodisias.org/wp-content/uploads/2014/12/aphrodisias-614x511.jpg",
     },
     {
       name: "Perge Antik Kenti",
