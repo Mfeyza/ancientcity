@@ -23,7 +23,7 @@ const Navbar = ({ handlesearch }) => {
               aria-label="Search"
               style={{ width: "350px", height: "40px", backgroundColor: "transparent" }}
             />
-            <button className="btn btn-outline-black fs-3" type="submit">Search</button>
+            <button className="btn btn-outline-black fs-3" type="submit">Ara</button>
           </form>
         </div>
       </nav>
